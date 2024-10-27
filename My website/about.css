@@ -1,0 +1,53 @@
+body {
+	background-image: url(aurora_borealis.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.About myself{
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    font-size: 30px;
+    color: black;
+
+}
+ul{
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+li{
+    border: 3px white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    color: white;
+}
+summary{
+    color: whitesmoke;
+}
+.Nav{
+    background-color: darkblue;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    background-image: url();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Nav a{
+    padding: 60px;
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
+a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: blink;

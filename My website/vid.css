@@ -1,0 +1,48 @@
+body {
+	background-image: url(aurora_borealis.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.vid{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 30%;
+    left: 65%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.vid{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 30%;
+    left: 35%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.videoo video{
+    width: 900px;
+    height: 500px;
+    margin: 60px;
+}
+.Nav{
+    background-color: darkblue;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    background-image: url();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Nav a{
+    padding: 60px;
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
+a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: blink;
